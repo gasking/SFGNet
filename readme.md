@@ -88,7 +88,7 @@ pip install -r requirements.txt
   <p align="center">
   </p>
 <div align="center">
-  <img src="asset/ablation_module.png" height="800" width="1000">
+  <img src="asset/albation_module.png" height="800" width="1000">
 </div>
 <p align="center">
 </p>
