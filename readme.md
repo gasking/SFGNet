@@ -44,7 +44,7 @@ pip install -r requirements.txt
 </p>
 
 <div align="center">
-  <img src="asset/Compare_Mas.jpg" height="800" width="1200">
+  <img src="asset/Mas_compare.png" height="800" width="1200">
 </div>
 <p align="center">
 </p>
@@ -58,7 +58,7 @@ pip install -r requirements.txt
   <p align="center">
   </p>
 <div align="center">
-  <img src="asset/Compare_WHU.jpg" height="800" width="1000">
+  <img src="asset/WHU_compare.png" height="800" width="1000">
 </div>
 <p align="center">
 </p>
@@ -74,7 +74,7 @@ pip install -r requirements.txt
   <p align="center">
   </p>
 <div align="center">
-  <img src="asset/Ablation_loss function.jpg" height="800" width="1000">
+  <img src="asset/albation_loss.png" height="800" width="1000">
 </div>
 <p align="center">
 </p>
@@ -88,7 +88,7 @@ pip install -r requirements.txt
   <p align="center">
   </p>
 <div align="center">
-  <img src="asset/Ablation_Module ablation.jpg" height="800" width="1000">
+  <img src="asset/ablation_module" height="800" width="1000">
 </div>
 <p align="center">
 </p>
@@ -102,7 +102,7 @@ pip install -r requirements.txt
   <p align="center">
   </p>
 <div align="center">
-  <img src="asset/Ablation_Key Parameters.jpg" height="400" width="600">
+  <img src="asset/parameters.png" height="400" width="600">
 </div>
 <p align="center">
 </p>
