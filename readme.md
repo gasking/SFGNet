@@ -6,7 +6,7 @@
   <img src="asset/overframe.bmp" height="800">
 </div>
 <p align="center">
-  Fig. 1. Architecture diagram of salient feature-guided real-time building extraction network(SFGNet)
+  a) Overall architecture of the proposed SFGNet, consisting of a Data-Generator, Network Architecture, and Task Head; b) the feature interactions between SDCM, OFAM, and CFAM; c) Module component; d) Data flow.
 </p>
 
 
@@ -52,6 +52,7 @@ pip install -r requirements.txt
   <img src="asset/Tab1_visual.png" height="200" width="350">
 </div>
 <p align="center">
+  Fig.6 Visualization of Massachusetts Builds Dataset performance. a) Radar chart with lines farther from the center indicating better performance and b) bubble chart with the arrow directions indicating performance.
 </p>
 
 <div align="center">
@@ -60,7 +61,7 @@ pip install -r requirements.txt
 <p align="center">
 </p>
 
-* ***Comparison of various real-time semantic segmentation algorithms on the WHU Aerial Image Dataset (retaining BN layers during FPS testing,the optimal results are shown in bold and suboptimal results are shown underline)***
+* ***Comparison of various real-time semantic segmentation algorithms on the WHU Aerial Image Dataset (retaining BN layers during FPS testing, the optimal results are shown in bold and suboptimal results are shown underline)***
 
 * <div align="center">
     <img src="asset/Tab2.png" height="150" width="350">
@@ -68,7 +69,7 @@ pip install -r requirements.txt
   <p align="center">
   </p>
   <div align="center">
-    <img src="asset/Tab2_visual.png" height="150" width="350">
+    <img src="asset/Tab2_visual.png" height="200" width="350">
   </div>
   <p align="center">
   </p>
@@ -99,35 +100,30 @@ pip install -r requirements.txt
 </p>
 
 ### Cross-domain Building Detection for Generalization Performance Analysis
-* ***Qualitative analysis of direct cross-domain building detection with multiple models
-<div align="center">  
+* ***Qualitative analysis of direct cross-domain building detection with multiple models 
 <div align="center">
   <img src="asset/cross-domain_result.png" height="800" width="1000">
 </div>
 <p align="center">
+  Fig. 10 Cross-domain building detection (Massachusetts → CScity) visualization results.
 </p>
 
-<div align="center">  
-<div align="center">
-  <img src="asset/cross-domain_response.png" height="800" width="1000">
-</div>
-<p align="center">
-</p>
 
 * ***Cross-domain building detection feature response analysis across various models
-<div align="center">  
+
 <div align="center">
   <img src="asset/cross-domain_response.png" height="800" width="1000">
 </div>
 <p align="center">
+  Fig. 11 Cross-domain building detection feature response visualization across multiple datasets.
 </p>
 
-<div align="center">  
 <div align="center">
   <img src="asset/feature_response.png" height="800" width="1000">
 </div>
 <p align="center">
-</p>
+  Fig.12 Cross-domain building detection feature visualization results of our method across multiple datasets.
+</p> 
 
 ## Ablation Studies
 * ***Loss function ablation experiment (training on dataset WHU Aerial Image Dataset, optimal results are shown in bold)***
