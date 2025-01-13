@@ -1,4 +1,4 @@
-# 🎆SFGNet: Salient feature-guided real-time building extraction network🎆
+# 🎆SFGNet: Salient-Feature-Guided Real-Time Building Extraction Network for Remote Sensing Images🎆
 
 **This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for** [[SFGNet]](https://github.com/gasking/SFGNet)🔥
 
