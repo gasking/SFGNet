@@ -49,7 +49,7 @@ pip install -r requirements.txt
 </p>
 
 <div align="center">
-  <img src="asset/Tab1_visual.png" height="200" width="350">
+  <img src="asset/Tab1_visual.png" height="400" width="650">
 </div>
 <p align="center">
   Fig.6 Visualization of Massachusetts Builds Dataset performance. a) Radar chart with lines farther from the center indicating better performance and b) bubble chart with the arrow directions indicating performance.
@@ -64,12 +64,12 @@ pip install -r requirements.txt
 * ***Comparison of various real-time semantic segmentation algorithms on the WHU Aerial Image Dataset (retaining BN layers during FPS testing, the optimal results are shown in bold and suboptimal results are shown underline)***
 
 * <div align="center">
-    <img src="asset/Tab2.png" height="150" width="350">
+    <img src="asset/Tab2.png" height="400" width="600">
   </div>
   <p align="center">
   </p>
   <div align="center">
-    <img src="asset/Tab2_visual.png" height="200" width="350">
+    <img src="asset/Tab2_visual.png" height="400" width="650">
   </div>
   <p align="center">
   </p>
@@ -88,28 +88,28 @@ pip install -r requirements.txt
   </p>
 
 <div align="center">
-    <img src="asset/Potsdam_visual.png" height="200" width="350">
+    <img src="asset/Postdam_visual.png" height="800" width="1000">
   </div>
   <p align="center">
   </p>
   
 <div align="center">
-  <img src="asset/Tab3_visual.png" height="800" width="1000">
+  <img src="asset/Tab3_visual.png" height="400" width="650">
 </div>
 <p align="center">
 </p>
 
 ### Cross-domain Building Detection for Generalization Performance Analysis
-* ***Qualitative analysis of direct cross-domain building detection with multiple models 
+* ***Qualitative analysis of direct cross-domain building detection with multiple models*** 
 <div align="center">
   <img src="asset/cross-domain_result.png" height="800" width="1000">
 </div>
 <p align="center">
- **Fig. 10 Cross-domain building detection (Massachusetts → CScity) visualization results.**
+ Fig. 10 Cross-domain building detection (Massachusetts → CScity) visualization results
 </p>
 
 
-* ***Cross-domain building detection feature response analysis across various models
+* ***Cross-domain building detection feature response analysis across various models***
 
 <div align="center">
   <img src="asset/cross-domain_response.png" height="800" width="1000">
@@ -119,10 +119,10 @@ pip install -r requirements.txt
 </p>
 
 <div align="center">
-  <img src="asset/featuer_response.png" height="800" width="1000">
+  <img src="asset/featuer_response.png" height="1200" width="1000">
 </div>
 <p align="center">
-  **Fig.12 Cross-domain building detection feature visualization results of our method across multiple datasets.**
+  Fig.12 Cross-domain building detection feature visualization results of our method across multiple datasets.
 </p> 
 
 ## Ablation Studies
