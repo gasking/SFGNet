@@ -3,7 +3,7 @@
 **This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for** [[SFGNet]](https://github.com/gasking/SFGNet)🔥
 
 <div align="center">
-  <img src="asset/overframe.bmp" height="400">
+  <img src="asset/overframe.bmp" height="800">
 </div>
 <p align="center">
   Fig. 1. Architecture diagram of salient feature-guided real-time building extraction network(SFGNet)
@@ -43,13 +43,13 @@ pip install -r requirements.txt
 **Comparison of various real-time semantic segmentation algorithms on Massachusetts Builds Dataset (retaining BN layers during FPS testing, the optimal results are shown in bold and suboptimal results are shown underline)**
 
 <div align="center">
-  <img src="asset/Tab1.png" height="150" width="350">
+  <img src="asset/Tab1.png" height="200" width="350">
 </div>
 <p align="center">
 </p>
 
 <div align="center">
-  <img src="asset/Tab1_visual.png" height="800" width="1200">
+  <img src="asset/Tab1_visual.png" height="200" width="350">
 </div>
 <p align="center">
 </p>
@@ -87,7 +87,7 @@ pip install -r requirements.txt
   </p>
 
 <div align="center">
-    <img src="asset/Potsdam_visual.png" height="800" width="1000">
+    <img src="asset/Potsdam_visual.png" height="200" width="350">
   </div>
   <p align="center">
   </p>
@@ -98,7 +98,38 @@ pip install -r requirements.txt
 <p align="center">
 </p>
 
+### Cross-domain Building Detection for Generalization Performance Analysis
+* ***Qualitative analysis of direct cross-domain building detection with multiple models
+<div align="center">  
+<div align="center">
+  <img src="asset/cross-domain_result.png" height="800" width="1000">
+</div>
+<p align="center">
+</p>
 
+<div align="center">  
+<div align="center">
+  <img src="asset/cross-domain_response.png" height="800" width="1000">
+</div>
+<p align="center">
+</p>
+
+* ***Cross-domain building detection feature response analysis across various models
+<div align="center">  
+<div align="center">
+  <img src="asset/cross-domain_response.png" height="800" width="1000">
+</div>
+<p align="center">
+</p>
+
+<div align="center">  
+<div align="center">
+  <img src="asset/feature_response.png" height="800" width="1000">
+</div>
+<p align="center">
+</p>
+
+## Ablation Studies
 * ***Loss function ablation experiment (training on dataset WHU Aerial Image Dataset, optimal results are shown in bold)***
 
 * <div align="center">
@@ -125,7 +156,7 @@ pip install -r requirements.txt
 </div>
 <p align="center">
 </p>
-
+  
 
 * **Visualization results of ablation experiments for key parameters**
 
