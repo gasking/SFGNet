@@ -30,9 +30,9 @@ pip install -r requirements.txt
 
 ## Dataset 
 - **WHU Aerial Image  dataset:** https://drive.google.com/file/d/1QxIpX4JgU_iO5iuEO2j5_pqlOOkOUHy_/view?usp=sharing
-- **Massachusetts  dataset: https://drive.google.com/file/d/1n5paF9oxByok_2321KxLj8QDkrw8n6iW/view
-- **Potsdam datatset:
-- **CScity dataset: 
+- **Massachusetts  dataset:** https://drive.google.com/file/d/1n5paF9oxByok_2321KxLj8QDkrw8n6iW/view
+- **Potsdam datatset:**
+- **CScity dataset:** 
 
 
 ## Results
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 **Comparison of various real-time semantic segmentation algorithms on Massachusetts Builds Dataset (retaining BN layers during FPS testing, the optimal results are shown in bold and suboptimal results are shown underline)**
 
 <div align="center">
-  <img src="asset/Tab1.png" height="200" width="350">
+  <img src="asset/Tab1.png" height="400" width="650">
 </div>
 <p align="center">
 </p>
@@ -105,7 +105,7 @@ pip install -r requirements.txt
   <img src="asset/cross-domain_result.png" height="800" width="1000">
 </div>
 <p align="center">
-  Fig. 10 Cross-domain building detection (Massachusetts → CScity) visualization results.
+ **Fig. 10 Cross-domain building detection (Massachusetts → CScity) visualization results.**
 </p>
 
 
@@ -119,10 +119,10 @@ pip install -r requirements.txt
 </p>
 
 <div align="center">
-  <img src="asset/feature_response.png" height="800" width="1000">
+  <img src="asset/featuer_response.png" height="800" width="1000">
 </div>
 <p align="center">
-  Fig.12 Cross-domain building detection feature visualization results of our method across multiple datasets.
+  **Fig.12 Cross-domain building detection feature visualization results of our method across multiple datasets.**
 </p> 
 
 ## Ablation Studies
