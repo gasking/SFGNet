@@ -31,8 +31,8 @@ pip install -r requirements.txt
 ## Dataset 
 - **WHU Aerial Image  dataset:** https://drive.google.com/file/d/1QxIpX4JgU_iO5iuEO2j5_pqlOOkOUHy_/view?usp=sharing
 - **Massachusetts  dataset:** https://drive.google.com/file/d/1n5paF9oxByok_2321KxLj8QDkrw8n6iW/view
-- **Potsdam datatset:**
-- **CScity dataset:** 
+- **Potsdam datatset:** https://pan.baidu.com/s/1SD5Irnaz21ZZ3UsV2yTFEg?pwd=rsag Code: rsag
+- **CScity dataset:** https://pan.baidu.com/s/1v9KZ4TUI_qUjy_1UnpJKEw?pwd=qpyi Code: qpyi
 
 
 ## Results
