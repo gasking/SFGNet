@@ -1,6 +1,11 @@
 # 🎆SFGNet: Salient-Feature-Guided Real-Time Building Extraction Network for Remote Sensing Images🎆
 
-**This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for** [[SFGNet]](https://github.com/gasking/SFGNet)🔥
+**This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for** [[SFGNet]](https://doi.org/10.1016/j.knosys.2025.113413)🔥
+<div align='center'>
+  <a href="https://doi.org/10.1016/j.knosys.2025.113413">
+    <img src="https://img.shields.io/badge/DOI-gray?style=flat&logo=doi" alt="DOI">
+  </a>
+</div>
 
 <div align="center">
   <img src="asset/overframe.bmp" height="800">
@@ -8,6 +13,7 @@
 <p align="center">
   a) Overall architecture of the proposed SFGNet, consisting of a Data-Generator, Network Architecture, and Task Head; b) the feature interactions between SDCM, OFAM, and CFAM; c) Module component; d) Data flow.
 </p>
+
 
 
 
